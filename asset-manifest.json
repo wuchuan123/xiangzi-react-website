@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/xiangzi-react-website/static/css/main.53637434.chunk.css",
+    "main.js": "/xiangzi-react-website/static/js/main.73e96ac0.chunk.js",
+    "main.js.map": "/xiangzi-react-website/static/js/main.73e96ac0.chunk.js.map",
+    "runtime-main.js": "/xiangzi-react-website/static/js/runtime-main.a1e20807.js",
+    "runtime-main.js.map": "/xiangzi-react-website/static/js/runtime-main.a1e20807.js.map",
+    "static/js/2.902035bc.chunk.js": "/xiangzi-react-website/static/js/2.902035bc.chunk.js",
+    "static/js/2.902035bc.chunk.js.map": "/xiangzi-react-website/static/js/2.902035bc.chunk.js.map",
+    "index.html": "/xiangzi-react-website/index.html",
+    "precache-manifest.a6f1ab9d3f14a60210bd282f8aa1ff9a.js": "/xiangzi-react-website/precache-manifest.a6f1ab9d3f14a60210bd282f8aa1ff9a.js",
+    "service-worker.js": "/xiangzi-react-website/service-worker.js",
+    "static/css/main.53637434.chunk.css.map": "/xiangzi-react-website/static/css/main.53637434.chunk.css.map",
+    "static/js/2.902035bc.chunk.js.LICENSE.txt": "/xiangzi-react-website/static/js/2.902035bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1e20807.js",
+    "static/js/2.902035bc.chunk.js",
+    "static/css/main.53637434.chunk.css",
+    "static/js/main.73e96ac0.chunk.js"
+  ]
+}
